@@ -1,1 +1,1 @@
-A project built for my Object Oriented Programming Class. A user can create a database of Patients and Staff for a Hospital.
+A java project built using OOP concepts such as Inheritance, Composition, Polymorphism etc. It allows users to create a dynamic Hospital Management databse. Patients can make appointments, Doctors can send appointment reports. All data is stored in text files. 
