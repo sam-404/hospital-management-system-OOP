@@ -1,0 +1,3 @@
+Name: Admin
+Phone Number: 12345
+Email Address: admin@mail
